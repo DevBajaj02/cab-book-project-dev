@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cab Booking</string>
+    <string name="wlcm_heading">Welcome\nDev</string>
+    <string name="para">UvCab proactively offers its ride-hailing services across the country with well-maintained cars and professionally trained driver- partners.</string>
+    <string name="book_txt">Book Now</string>
+    <string name="booking_txt">My Bookings</string>
+</resources>
