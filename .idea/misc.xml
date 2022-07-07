@@ -5,7 +5,8 @@
       <map>
         <entry key="..\:/Projects/CabBook/app/src/main/res/font/archivo_black.xml" value="0.284375" />
         <entry key="..\:/Projects/CabBook/app/src/main/res/font/font.xml" value="0.2833333333333333" />
-        <entry key="..\:/Projects/CabBook/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Projects/CabBook/app/src/main/res/layout/activity_main.xml" value="0.15489130434782608" />
+        <entry key="..\:/Projects/CabBook/app/src/main/res/layout/fragment_category.xml" value="0.2" />
       </map>
     </option>
   </component>
